@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-﻿body {
-}
-=======
-﻿
-#logoImg{
+﻿﻿#logoImg{
     width:200px;
 }
 
@@ -13,4 +8,18 @@ div.page-header{
     padding-top:3px;
     margin-bottom:0px;
 }
->>>>>>> header
+
+nav#navvy.navbar.navbar-static-top{
+   background-color:#6a1525;
+   margin-bottom:0px;
+   
+   
+}
+
+#navvy a{
+color:#FFF6F0;
+}
+
+#navvy a:hover{
+    background:none;
+}
