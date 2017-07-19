@@ -23,3 +23,12 @@ color:#FFF6F0;
 #navvy a:hover{
     background:none;
 }
+
+/*trailer section*/
+.mainSec {
+       background-image: url('images/junkyard.jpg');
+       background-size:cover;
+}
+h1.container#trailer{
+    text-align:right;
+}
