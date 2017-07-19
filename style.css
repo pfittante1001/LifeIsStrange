@@ -1,4 +1,12 @@
-﻿﻿#logoImg{
+﻿
+/*General Styling*/
+body{
+
+    background-color:#FFF6F0;
+
+}﻿
+
+#logoImg{
     width:200px;
 }
 
@@ -11,13 +19,11 @@ div.page-header{
 
 nav#navvy.navbar.navbar-static-top{
    background-color:#6a1525;
-   margin-bottom:0px;
-   
-   
+   margin-bottom:0px; 
 }
 
 #navvy a{
-color:#FFF6F0;
+   color:#FFF6F0;
 }
 
 #navvy a:hover{
@@ -29,6 +35,11 @@ color:#FFF6F0;
        background-image: url('images/junkyard.jpg');
        background-size:cover;
 }
-h1.container#trailer{
-    text-align:right;
+h1.container#trailer {
+    text-align: right;
+}
+/*Thumbnail section*/
+
+.previewThem{
+    margin:auto;
 }
