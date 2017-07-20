@@ -30,6 +30,7 @@ nav#navvy.navbar.navbar-static-top{
     background:none;
 }
 
+
 /*trailer section*/
 .mainSec {
        background-image: url('images/junkyard.jpg');
@@ -40,6 +41,14 @@ h1.container#trailer {
 }
 /*Thumbnail section*/
 
-.previewThem{
-    margin:auto;
+.previewThem {
+    margin: auto;
+    /*Button*/
+}
+button.navbar-toggle{
+    border:1px solid #FFF6F0;
+}
+span.icon-bar{
+    border:1px solid #FFF6F0;
+
 }
